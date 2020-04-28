@@ -32,7 +32,7 @@ body {
 **********************************************/
 
 .top {
-    height: 50vh;
+    height: 40vh;
     opacity: 0.9;
     background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(../Back2.jpg);
     background-size: cover;
@@ -52,7 +52,7 @@ body {
 .budget__title {
     font-size: 18px;
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 5%;
     font-weight: 300;
 }
 
