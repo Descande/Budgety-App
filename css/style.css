@@ -32,7 +32,7 @@ body {
 **********************************************/
 
 .top {
-    height: 40vh;
+    height: 50vh;
     opacity: 0.9;
     background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(../Back2.jpg);
     background-size: cover;
